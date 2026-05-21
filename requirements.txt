@@ -1,0 +1,24 @@
+# PDF processing
+pymupdf==1.25.5
+
+# Embeddings
+torch==2.7.0
+transformers==4.51.3
+Pillow==11.2.1
+numpy==2.2.6
+
+# Vector stores
+faiss-cpu==1.11.0
+qdrant-client==1.14.2
+
+# LLM
+groq==0.23.1
+
+# Streamlit
+streamlit==1.45.1
+
+# Utilities
+python-dotenv==1.1.0
+
+# Evaluation (offline only — not used by the app at runtime)
+ragas==0.2.15

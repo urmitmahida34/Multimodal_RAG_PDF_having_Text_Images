@@ -1,0 +1,34 @@
+venv/
+.venv/
+
+# PDF data files — only needed locally to run ingest_samples.py
+pdf_data/
+*.pdf
+
+# secrets
+.env
+keys.txt
+.streamlit/secrets.toml
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# local scripts and generated outputs
+generate_interview_doc.py
+Multimodal_RAG_Interview_Guide.pdf
+
+# eval outputs
+eval/reports/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,17 @@
+{
+  "facenet": [
+    "What is the specific architecture of the deep convolutional network used in FaceNet and how does it contribute to the learned mapping?",
+    "How does FaceNet handle issues such as variation in pose, expression, and lighting when mapping face images to the compact Euclidean space?",
+    "Can FaceNet embeddings be used as feature vectors for tasks beyond face recognition, verification, and clustering, and if so, what are some potential applications?"
+  ],
+  "tp-gan": [
+    "How does the TP-GAN model balance the synthesis of global structures and local details in frontal view face synthesis?",
+    "What are the specific architectural innovations in the TP-GAN model that enable it to tackle the challenges of photorealistic frontal view synthesis from a single face image?",
+    "How does the TP-GAN model compare to existing face synthesis methods in terms of photorealism and identity preservation, and what are the key factors contributing to its performance?"
+  ],
+  "sketch2photo": [
+    "How does the Sketch2Photo system handle variations in sketch input to produce coherent photo montages?",
+    "What is the computational cost of generating a photo montage from an input sketch using the Sketch2Photo system?",
+    "Can the Sketch2Photo system be adapted to incorporate user preferences or constraints, such as color palette or style, to produce more personalized photo montages?"
+  ]
+}
