@@ -26,6 +26,9 @@ __pycache__/
 generate_interview_doc.py
 Multimodal_RAG_Interview_Guide.pdf
 
+# project context for Claude sessions (local only)
+CLAUDE.md
+
 # eval outputs
 eval/reports/
 
